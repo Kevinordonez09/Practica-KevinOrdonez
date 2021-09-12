@@ -2,9 +2,9 @@
 
 # Ejercicio 1
 ### Git Bash
-![Get]()
+![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Git_Bash.jpg)
 ### Visual Code
-![Get]()
+![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/VisualStudioCode.jpg)
 # Ejercicio 2
 1.	*¿Qué es un servidor HTTP?*
 Es el servidor online que se encarga de conectar al usuario con la aplicación.
@@ -55,38 +55,38 @@ Los headers transmiten la información acerca del navegador del cliente, de la p
 
 # Ejercicio 3
 
-## Get
-![Get]()
+## Get1
+![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Get1.jpg)
 
 ## Post
-![Get]()
+![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Post.jpg)
 
 ## Get final
-![Get]()
+![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Get2.jpg)
 
 *¿Qué diferencias se observan?*
 Se le agregaron 5 líneas de código al url final, las mismas 5 de código que se le agregaron al body anteriormente.
 
 
 # Ejercicio 4
-Perfil personal trailhead [Trailhead]()
+Perfil personal trailhead [Trailhead](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Perfil%20peronal%20Trailhead.jpg)
 
 # Ejercicio 5
-|Objeto		| Definición 					| datos         |
-|---------------|-----------------------------------------------|---------------|
-|Lead           |Es un cliente potencial.			|String		|
-|Account	|Una cuenta individual de afín a la empresa.	|String		|
-|Contact	|Es la persona que está relacionada con la cuenta.| String, int		|
-|Opportunity	|Es la oportunidad de una venta o un trato.	| String, Currency		|
-|Product	|Lo que la empresa puede ofrecer al cliente.	|String		|
-|PriceBook	|Es una lista de los productos y precios ofrecidos.| string, currency		|
-|Quote		|Son los precios propuestos en las cotizaciones.| String, Currency		|
-|Asset		|Es un producto que el cliente compró o instaló.|int, String		|
-|Case		|Represente un problema o inconveniente del cliente.| String		|
-|Article	|Son documentos de información o de los procesos.|String		|
+|Objeto		| Definición 					| 
+|---------------|-----------------------------------------------|
+|Lead           |Es un cliente potencial.			  |
+|Account	|Una cuenta individual de afín a la empresa.	  |
+|Contact	|Es la persona que está relacionada con la cuenta.|
+|Opportunity	|Es la oportunidad de una venta o un trato.	  |
+|Product	|Lo que la empresa puede ofrecer al cliente.	  |
+|PriceBook	|Es una lista de los productos y precios ofrecidos.|
+|Quote		|Son los precios propuestos en las cotizaciones.   |
+|Asset		|Es un producto que el cliente compró o instaló.   |
+|Case		|Represente un problema o inconveniente del cliente.|
+|Article	|Son documentos de información o de los procesos.   |
 
 ## Diagrama UML
-![Diagrama UML]()
+![Diagrama UML](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/DiagramaUML.jpg)
 
 # Ejercicio 7
 
