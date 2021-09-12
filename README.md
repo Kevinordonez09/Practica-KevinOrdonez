@@ -69,7 +69,8 @@ Se le agregaron 5 líneas de código al url final, las mismas 5 de código que s
 
 
 # Ejercicio 4
-Perfil personal trailhead [Trailhead](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Perfil%20peronal%20Trailhead.jpg)
+Perfil personal trailhead
+![GET](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Perfil%20peronal%20Trailhead.jpg)
 
 # Ejercicio 5
 |Objeto		| Definición 					| 
