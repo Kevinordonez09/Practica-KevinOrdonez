@@ -75,16 +75,16 @@ Perfil personal trailhead
 # Ejercicio 5
 |Objeto		| Definición 					| 
 |---------------|-----------------------------------------------|
-|Lead           |Es un cliente potencial.			  |
-|Account	|Una cuenta individual de afín a la empresa.	  |
-|Contact	|Es la persona que está relacionada con la cuenta.|
-|Opportunity	|Es la oportunidad de una venta o un trato.	  |
-|Product	|Lo que la empresa puede ofrecer al cliente.	  |
-|PriceBook	|Es una lista de los productos y precios ofrecidos.|
-|Quote		|Son los precios propuestos en las cotizaciones.   |
-|Asset		|Es un producto que el cliente compró o instaló.   |
-|Case		|Represente un problema o inconveniente del cliente.|
-|Article	|Son documentos de información o de los procesos.   |
+|Lead           |Registro de posible cliente que esta en proceso de evaluación.|			 
+|Account	|Registro de un cliente, este puede ser de una empresa o persona individual|
+|Contact	|Registro de la(s) persona(s) relacionada(s).|
+|Opportunity	|Es la negociación de una venta.|
+|Product	|Catalogo de productos o servicios que ofrece la empresa.|
+|PriceBook	|Lista de precios de los productos y servicios.|
+|Quote		|Es la cotización que se envia a los clientes.|
+|Asset		|Producto comprado o instalado por el cliente.|
+|Case		|Registro de una situación o problema de un cliente. un caso se puede asociar a un lead, a una cuentam a un contacto y a una oportunidad.|
+|Article	|Documentos de información o procesos.   |
 
 ## Diagrama UML
 ![Diagrama UML](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/DiagramaUML.jpg)
