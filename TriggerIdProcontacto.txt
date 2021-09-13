@@ -1,0 +1,5 @@
+trigger InsertEmail on Contact (before insert) {
+    if(Trigger.isbefore && Trigger.IsInsert) {
+        InsertEmail.TriggerHandler.CreateAccounts(Trigger.new);
+    }
+}
