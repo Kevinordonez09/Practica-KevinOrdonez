@@ -7,7 +7,8 @@
 ![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/VisualStudioCode.jpg)
 # Ejercicio 2
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son agnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
-	1. ¿Qué es un servidor HTTP?
+
+	1.¿Qué es un servidor HTTP?
   Principalmente son utilizados para la distribución de contenido web ya sea en redes internas o en web mediante la transferencia de documentos.
 
 	2.¿Qué son los verbos HTTP?
@@ -22,13 +23,13 @@ Response: es la respuesta del servidor al cliente.
  Es un acceso que se ejecuta en un navegador al que se le hace una petición de un objeto web con el propósito de que se brinda una respuesta. 
  
 	
-	4.¿Qué son los headers?
-		Es la parte superior de las páginas web y es muy importante pues en ese mismo espacio suelen encontrarse las secciones de interración . 
+	4. ¿Qué son los headers?
+Es la parte superior de las páginas web y es muy importante pues en ese mismo espacio suelen encontrarse las secciones de interración. 
  
-	5.¿Qué es un queryString? (En el contexto de una url)
+	5. ¿Qué es un queryString? (En el contexto de una url)
 Se utiliza para hacer referencias a una interacción con una base de datos. Es la parte de la URL que contiene los datos que deben pasar a las aplicaciones web. 
 
-	6.¿Qué es el responseCode?
+	6. ¿Qué es el responseCode?
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
 
  	¿Qué significado tiene los posibles valores devueltos?
@@ -45,7 +46,7 @@ Errores de los servidores 500–599.
 	8.¿Qué verbo http utiliza el navegador cuando accedemos a una página?
    Puede ser POST o Get de acuerdo a lo que se quiera mostrar al abrir la página.
 
-Explicar brevemente qué son las estructuras de datos JSON y XML dando
+      Explicar brevemente qué son las estructuras de datos JSON y XML dando
 JSON:  Representan formas a base de objetos, un objeto es un conjunto desordenado de pares nombre/valor.ejemplo de estructuras posibles.
 XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos, elementos secundarios
 *JSON:*
