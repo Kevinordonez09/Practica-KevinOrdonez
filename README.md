@@ -88,6 +88,10 @@ Perfil personal trailhead
 
 ## Diagrama UML
 ![Diagrama UML](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/DiagramaUML.jpg)
+	
+	
+# Ejercicio 6
+	
 
 # Ejercicio 7
 
@@ -116,9 +120,9 @@ Perfil personal trailhead
 - *¿Para qué sirve la funcionalidad Chatter?* Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
 
 ### Conceptos generales
-- *¿Qué significa SaaS? ¿Salesforce es Saas?* Software as a Service, Si.
-- *¿Que significa que una solución sea Cloud?* Que se encuentra el servidor en la nube.
-- *¿Que significa que una solución sea On-Premise?* Que se encuentra en la computadora local.
+- *¿Qué significa SaaS? Software As A Service  ¿Salesforce es Saas? Si.
+- *¿Que significa que una solución sea Cloud?* Que se puede conseguir el servidor de la nube de una página web.
+- *¿Que significa que una solución sea On-Premise?* Que se puede ejecutar desde el operador local del dispositivo.
 - *¿Que es un pipeline de ventas?* Es el mapa de las actividades diarias que del proceso de ventas en el trabajo de un representante comercial
 - *¿Que es un funnel de ventas?* Es una representación del ciclo o procesos de venta.
 - *¿Qué significa Customer Experience?* Es como percibe racional, física, emocional y/o psicológicamente cualquier parte de una empresa un cliente.
