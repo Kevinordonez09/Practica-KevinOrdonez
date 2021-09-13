@@ -129,4 +129,4 @@ Perfil personal trailhead
 - *¿Qué es una API y en qué se diferencia de una Rest API?* Es una interfaz de programación de aplicaciones, Rest api funciona con la arquitectura rest y permite la interacción con servicios web de restful.
 - *¿Qué es un Proceso Batch?* Es la ejecución de un programa sin el control o supervisión directa del usuario.
 - *¿Qué es Kanban?* Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
-- *¿Qué es un ERP? ¿Salesforce es un ERP?* Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios, Si.
+- *¿Qué es un ERP? ¿Salesforce es un ERP?* Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios, Sii.
