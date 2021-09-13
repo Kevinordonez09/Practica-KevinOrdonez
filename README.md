@@ -116,20 +116,24 @@ Perfil personal [Trailhead](https://trailblazer.me/id/keordonez)
 	
 	
 # Ejercicio 6
-	Codigo en apex de la clase IdProContacto !GET (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).
-	Codigo en apex TriggerIdProcontacto !GET (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/TriggerIdProcontacto.txt).
+Código en apex de la clase IdProContacto ![GET]     (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).
+Código en apex TriggerIdProcontacto ![GET] (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/TriggerIdProcontacto.txt).
 	
 	
 
 # Ejercicio 7
 
 ### Soluciones de Salesforce
-     .¿Qué es Salesforce?*
-   .  Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
-   .¿Qué es Sales Cloud?* Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
-   .¿Qué es Service Cloud?* Son los servicios que se realizan en la nube.
-   .¿Qué es Health Cloud?* En un software que permite ofrecer información medica del paciente a las entidades médicas.
-   .¿Qué es Marketing Cloud?* Software y servicios de análisis y automatización de marketing digital. 
+     .¿Qué es Salesforce?
+   Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
+      .¿Qué es Sales Cloud?
+	 Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
+   .¿Qué es Service Cloud?
+         Son los servicios que se realizan en la nube.
+   .¿Qué es Health Cloud?
+   		En un software que permite ofrecer información medica del paciente a las entidades médicas.
+   .¿Qué es Marketing Cloud?
+  		 Software y servicios de análisis y automatización de marketing digital. 
 
 ### Funcionalidades de Salesforce
    .¿Qué es un RecordType?
@@ -158,36 +162,35 @@ Perfil personal [Trailhead](https://trailblazer.me/id/keordonez)
 	Para recopilar información de los sitios web de la empresa.
 ¿Para qué sirve la funcionalidad Web to Case?
 	Para Recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa.
-- *¿Para qué sirve la funcionalidad Omnichannel?*
+   .¿Para qué sirve la funcionalidad Omnichannel?*
 	Para conectar a diferentes redes simultáneamente y en tiempo integral.
-- *¿Para qué sirve la funcionalidad Chatter?*
+   .¿Para qué sirve la funcionalidad Chatter?*
 	Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
 
 ### Conceptos generales
-- *¿Qué significa SaaS? Software As A Service       ¿Salesforce es Saas? Si.
-- *¿Que significa que una solución sea Cloud?* 
+   .¿Qué significa SaaS? Software As A Service       ¿Salesforce es Saas? Si.
+   .¿Que significa que una solución sea Cloud?* 
 	Que se puede conseguir el servidor de la nube de una página web.
-- *¿Que significa que una solución sea On-Premise?* 
+   .¿Que significa que una solución sea On-Premise?* 
 	Que se puede ejecutar desde el operador local del dispositivo y la empresa de hace cargo de la seguridad e disponibilidad.
-- *¿Que es un pipeline de ventas?*
+   .¿Que es un pipeline de ventas?*
 	Es el mapa de las actividades diarias que del proceso de ventas en el trabajo de un representante comercial.
-- *¿Que es un funnel de ventas?* 
+   .¿Que es un funnel de ventas?* 
 	Es una representación del ciclo o procesos de venta.
-- *¿Qué significa Customer Experience?* 
+   .¿Qué significa Customer Experience?* 
 	Es como percibe racional, física, emocional y/o psicológicamente cualquier parte de una empresa un cliente.
-- *¿Qué significa omnicanalidad?*
+   .¿Qué significa omnicanalidad?*
 	Es el uso de múltiples canales de comunicación para tener una mejor comunicación.
-- *¿Qué significa que un negocio sea B2B?*
-	Que es de empresa a empresa no al consumidor directamente.
-- *¿Qué significa que un negocio sea B2C?* 
+   .¿Qué significa que un negocio sea B2B?*
+	Que es de empresa a empresa no al consumidor directamente.   .*¿Qué significa que un negocio sea B2C?* 
 	Que es de empresa a consumidor directo.
-- *¿Qué es un KPI?*
+   .¿Qué es un KPI?*
 	Es un indicador de desempeño o rendimiento en un proceso.
-- *¿Qué es una API y en qué se diferencia de una Rest API?*
+   .¿Qué es una API y en qué se diferencia de una Rest API?*
 	Es una interfaz de programación de aplicaciones, Rest api funciona con la arquitectura rest y permite la interacción con servicios web de restful.
-- *¿Qué es un Proceso Batch?* 
+   .¿Qué es un Proceso Batch?* 
 	Es la ejecución de un programa sin el control o supervisión directa del usuario.
-- *¿Qué es Kanban?*
+   .¿Qué es Kanban?*
 	Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
-- *¿Qué es un ERP? Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios 
+   .¿Qué es un ERP? Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios 
 	¿Salesforce es un ERP?* Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
