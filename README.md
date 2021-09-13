@@ -7,14 +7,15 @@
 ![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/VisualStudioCode.jpg)
 # Ejercicio 2
 1.	*¿Qué es un servidor HTTP?*
-Es el servidor online que se encarga de conectar al usuario con la aplicación.
-2.	*¿Qué son los verbos HTTP? Mencionar los más conocidos*
+Es la entrada de un servidor a una pagina web online que se encarga de conectar al usuario con la aplicación.
+2.	*¿Qué son los verbos HTTP? M
 Son las instrucciones de qué hacer con los datos del url.
-Get, Put, Delete, Post
-3.	*¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?*
-Request es cuando la página le solicita la información al servidor y response es cuando responde este.
-Los headers son los “separadores” del código, por ejemplo, para distinguir head de body.
-4.	*¿Qué es un queryString? (En el contexto de una url)*
+   -Get
+   -Put
+   -Delete
+   -Post
+3.	*¿Qué es un request y un response en una comunicación HTTP?Request es cuando la página le solicita la información al servidor y response es cuando responde este. ¿Qué son los headers?* Los headers son los “separadores” del código, por ejemplo, para distinguir head de body.
+5.	*¿Qué es un queryString? (En el contexto de una url)*
 Es la interacción de la página con la base de datos para pasar los datos a la página web.
 5.	*¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?*
 Es la señal que devuelve el sistema para saber si se realizó el proceso correctamente o no, los valores devueltos pueden ser informativos, satisfactorios, redirecciones y errores.
@@ -38,8 +39,8 @@ JSON se basa en JavaScript por una serie de pares de nombres, valores y el uso d
 
 <Receptor>
 	<DireccionReceptor>
-		<Direccion>1 Avenida 9-59 Zona 1 </Direccion >
-		<CodigoPostal> 01001 >/CodigoPostal>
+		<Direccion>1 Av Patria </Direccion >
+		<CodigoPostal>   45070      </CodigoPostal>
 		<Municipio> Zapopan </Municipio>
 		<País> México </País>
 	<DireccionReceptor>
@@ -91,6 +92,9 @@ Perfil personal trailhead
 	
 	
 # Ejercicio 6
+	Codigo en apex de la clase IdProContacto(https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).
+	Codigo en apex TriggerIdProcontacto (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/TriggerIdProcontacto.txt).
+	
 	
 
 # Ejercicio 7
