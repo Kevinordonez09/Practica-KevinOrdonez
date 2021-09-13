@@ -8,16 +8,16 @@
 # Ejercicio 2
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son agnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
-	1.¿Qué es un servidor HTTP?
+	1 ¿Qué es un servidor HTTP?
   Principalmente son utilizados para la distribución de contenido web ya sea en redes internas o en web mediante la transferencia de documentos.
 
-	2.¿Qué son los verbos HTTP?
- Son conjuntos  de métodos para indicar la acción de un recurso determinado. Alguno los que se utilizan para la creación de Restful son: -Get
--Post
--Put
+	2 ¿Qué son los verbos HTTP?
+ Son conjuntos  de métodos para indicar la acción de un recurso determinado. Alguno los que se utilizan para la creación de Restfull son:<br> -Get <br>
+-Post<br>
+-Put<br>
 -Delete.
 
-	3.¿Qué es un request y un response en una comunicación HTTP?
+	3 ¿Qué es un request y un response en una comunicación HTTP?
    Request: es una petición que se hace desde el cliente. <br>
 Response: es la respuesta del servidor al cliente.
  Es un acceso que se ejecuta en un navegador al que se le hace una petición de un objeto web con el propósito de que se brinda una respuesta. 
@@ -26,10 +26,10 @@ Response: es la respuesta del servidor al cliente.
          ¿Qué son los headers?
 Header se refiere a la información suplementaria que está al principio de un bloque de información, esta contiene información necesaria para el correcto tratamiento del bloque de información.
  
-	4. ¿Qué es un queryString? (En el contexto de una url)
+	4 ¿Qué es un queryString? (En el contexto de una url)
 Se utiliza para hacer referencias a una interacción con una base de datos. Es la parte de la URL que contiene los datos que deben pasar a las aplicaciones web. 
 
-	5. ¿Qué es el responseCode?
+	5 ¿Qué es el responseCode?
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
 
  	¿Qué significado tiene los posibles valores devueltos?
@@ -40,11 +40,11 @@ Errores de los clientes 400–499. <br>
 Errores de los servidores 500–599.
 						
 
-	6.¿Cómo se envía la data en un Get y cómo en un POST? 
+	6 ¿Cómo se envía la data en un Get y cómo en un POST? 
   En el GET la información codificada del usuario en el header del HTTP request, usando la propia URL, en este los datos son visibles, por lo que nunca se envía información sensible. <br>
   En el POST también se codifica la información, pero esta se envía a través del body del HTTP Request, por lo que no aparece en la URL.
 
-	7.¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+	7 ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
    Get porque es el que se utiliza para acceder a los sitios web.
 
       Explicar brevemente qué son las estructuras de datos JSON y XML dando
@@ -70,13 +70,13 @@ XML: Es siempre descriptivo y se compara con un árbol porque cuenta con element
 	<.DireccionReceptor>
 <.Receptor>.
 	  
-	8.Explicar brevemente el estándar SOAP
+	8 Explicar brevemente el estándar SOAP
 Es un protocolo estándar que se creó para permitir la comunicación entre las aplicaciones diseñadas con diferentes lenguajes y plataformas, ofrecen normas integradas que pueden ser de utilidad en el sector empresarial.
 
-	10.	Explicar brevemente el estándar REST Full
+	10 Explicar brevemente el estándar REST Full
 Es un servicio que funciona para compartir información en un sistema de doble vía, consulta y respuesta (Request=> Response).
 
-       11.¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+       11 ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 Son la parte central de los HTTP requests y responses. Transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El Key Content-type le dice al cliente que tipo de contenido será retornado.
 
 # Ejercicio 3
@@ -127,71 +127,71 @@ Código en apex TriggerIdProcontacto ![GET] (https://github.com/Kevinordonez09/P
 ### Soluciones de Salesforce
 
      1.¿Qué es Salesforce? 
-   Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
+ Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
    
      2.¿Qué es Sales Cloud?
-   Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
+ Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
 
-   	3.¿Qué es Service Cloud?
-  Son los servicios que se realizan en la nube.
+     3.¿Qué es Service Cloud?
+ Son los servicios que se realizan en la nube.
   
-  	 4.¿Qué es Health Cloud?
-   En un software que permite ofrecer información medica del paciente a las entidades médicas.
+      4.¿Qué es Health Cloud?
+ En un software que permite ofrecer información medica del paciente a las entidades médicas.
    
-  	5.¿Qué es Marketing Cloud?
-  Software y servicios de análisis y automatización de marketing digital. 
+      5.¿Qué es Marketing Cloud?
+ Software y servicios de análisis y automatización de marketing digital. 
 
 ### Funcionalidades de Salesforce
 
-   	1.¿Qué es un RecordType?
-   Es la herramienta que determina que proceso comercial, los diseños de página y los valores de lista de selección a los que los usuarios tienen acceso.
+     1 ¿Qué es un RecordType?
+Es la herramienta que determina que proceso comercial, los diseños de página y los valores de lista de selección a los que los usuarios tienen acceso.
    
-   		2.¿Qué es un ReportType? 
+     2 ¿Qué es un ReportType? 
 	
-   Es una plantilla que define los objetos y campos que estarán disponibles en el reporte que se creara.
+ Es una plantilla que define los objetos y campos que estarán disponibles en el reporte que se creara.
    
-  	 3.¿Qué es un Page Layout?
+     3 ¿Qué es un Page Layout?
 Se encarga de controlar el diseño y organización de los botones, campos,  control, visualforce y listas relacionadas en las paginas de registro de objetos.
 
-	   4.¿Qué es un Compact Layout?
+     4 ¿Qué es un Compact Layout?
 Muestra los campos clave de un registro en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
 
-	   5.¿Qué es un Perfil?
+     5 ¿Qué es un Perfil?
 Los perfiles se encargan de controlar al acceso a los datos y que pueden hacer en la aplicación de los usuarios.
 
-	   6.¿Qué es un Rol?
+     6 ¿Qué es un Rol?
 Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización.
 
-	   7.¿Qué es un Validation Rule?
+     7 ¿Qué es un Validation Rule?
 Se encargan de verificar que los datos que el usuario ingresa en el registro cumple con los estándares solicitados antes de que el usuario pueda guardar el registro.
 
-	   8.¿Qué diferencia hay entre una relación Master Detail y Lookup?
+     8 ¿Qué diferencia hay entre una relación Master Detail y Lookup?
 Master detail se basa en una clase principal(padre) y una secundaria(hijo), mientras que lookup se crea una relación entre dos objetos iguales.
 
-  		 9.¿Qué es un Sandbox?
+     9 ¿Qué es un Sandbox?
 Es una herramienta para copiar los metadatos desde la organización de producción a una de prueba.
 
-  		 10.¿Que es un ChangeSet?
+     10 ¿Que es un ChangeSet?
    
 Es una función que contiene solo las modificaciones y modifica la metadata.
 
-  	 11.¿Para qué sirve el import Wizard de Salesforce?
+     11 ¿Para qué sirve el import Wizard de Salesforce?
    
 Funciona para importar cualquier dato estándar de Salesforce como objetos, cuentas, contactos, etc, fácilmente.
 
-	      12.¿Para qué sirve la funcionalidad Web to Lead?
+     12 ¿Para qué sirve la funcionalidad Web to Lead?
 	      
 Para recopilar información de los sitios web de la empresa.
 
-	13.¿Para qué sirve la funcionalidad Web to Case?
+     13 ¿Para qué sirve la funcionalidad Web to Case?
 
 Para Recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa.
 
-   	14.¿Para qué sirve la funcionalidad Omnichannel?
+     14 ¿Para qué sirve la funcionalidad Omnichannel?
    
 Para conectar a diferentes redes simultáneamente y en tiempo integral.
 
-  		 15.¿Para qué sirve la funcionalidad Chatter?
+     15 ¿Para qué sirve la funcionalidad Chatter?
    
 Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
 
