@@ -49,7 +49,7 @@ Errores de los servidores 500–599.
 
       Explicar brevemente qué son las estructuras de datos JSON y XML dando
 JSON:  Representan formas a base de objetos, un objeto es un conjunto desordenado de pares nombre/valor.ejemplo de estructuras posibles.
-XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos, elementos secundarios.  <br>
+XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos secundarios.  <br>
 *JSON:*
 
 {
@@ -117,7 +117,7 @@ Perfil personal [Trailhead](https://trailblazer.me/id/keordonez)
 	
 	
 # Ejercicio 6
-Código en apex de la clase IdProContacto     (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).
+Código en apex de la clase IdProContacto     (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).<br>
 Código en apex TriggerIdProcontacto  (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/TriggerIdProcontacto.txt).
 	
 	
@@ -171,7 +171,7 @@ Master detail se basa en una clase principal (padre) y una secundaria (hijo), mi
      9 ¿Qué es un Sandbox?
 Es una herramienta para copiar los metadatos desde la organización de producción a una de prueba.
 
-     10 ¿Que es un ChangeSet?
+     10 ¿Qué es un ChangeSet?
    
 Es una función que contiene solo las modificaciones y modifica la metadata.
 
