@@ -124,73 +124,76 @@ Código en apex TriggerIdProcontacto ![GET] (https://github.com/Kevinordonez09/P
 # Ejercicio 7
 
 ### Soluciones de Salesforce
-     .¿Qué es Salesforce?
+
+     1.¿Qué es Salesforce?
    Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
-      .¿Qué es Sales Cloud?
+     2.¿Qué es Sales Cloud?
 	 Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
-   .¿Qué es Service Cloud?
+   3.¿Qué es Service Cloud?
          Son los servicios que se realizan en la nube.
-   .¿Qué es Health Cloud?
+   4.¿Qué es Health Cloud?
    		En un software que permite ofrecer información medica del paciente a las entidades médicas.
-   .¿Qué es Marketing Cloud?
+   5.¿Qué es Marketing Cloud?
   		 Software y servicios de análisis y automatización de marketing digital. 
 
 ### Funcionalidades de Salesforce
-   .¿Qué es un RecordType?
-	Es la herramienta que determina que proceso comercial, los diseños de página y los valores de lista de selección a los que los usuarios tienen acceso.
-   .¿Qué es un ReportType? 
-	Es una plantilla que define los objetos y campos que estarán disponibles en el reporte que se creara.
-   .¿Qué es un Page Layout?
+
+   	1.¿Qué es un RecordType?
+   Es la herramienta que determina que proceso comercial, los diseños de página y los valores de lista de selección a los que los usuarios tienen acceso.
+   	2.¿Qué es un ReportType? 
+   Es una plantilla que define los objetos y campos que estarán disponibles en el reporte que se creara.
+   3.¿Qué es un Page Layout?
 	Se encarga de controlar el diseño y organización de los botones, campos,  control, visualforce y listas relacionadas en las paginas de registro de objetos.
-   .¿Qué es un Compact Layout?
+   4.¿Qué es un Compact Layout?
 	Muestra los campos clave de un registro en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
-   .¿Qué es un Perfil?
+   5.¿Qué es un Perfil?
 	Los perfiles se encargan de controlar al acceso a los datos y que pueden hacer en la aplicación de los usuarios.
-   .¿Qué es un Rol?
+   6.¿Qué es un Rol?
 	Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización.
-   .¿Qué es un Validation Rule?
+   7.¿Qué es un Validation Rule?
 	Se encargan de verificar que los datos que el usuario ingresa en el registro cumple con los estándares solicitados antes de que el usuario pueda guardar el registro.
-   .¿Qué diferencia hay entre una relación Master Detail y Lookup?
+   8.¿Qué diferencia hay entre una relación Master Detail y Lookup?
 	Master detail se basa en una clase principal(padre) y una secundaria(hijo), mientras que lookup se crea una relación entre dos objetos iguales.
-   .¿Qué es un Sandbox?
+   9.¿Qué es un Sandbox?
 	Es una herramienta para copiar los metadatos desde la organización de producción a una de prueba.
-   .¿Que es un ChangeSet?
+   10.¿Que es un ChangeSet?
 	Es una función que contiene solo las modificaciones y modifica la metadata.
-   .¿Para qué sirve el import Wizard de Salesforce?
+   11.¿Para qué sirve el import Wizard de Salesforce?
 	Funciona para importar cualquier dato estándar de Salesforce como objetos, cuentas, contactos, etc, fácilmente.
-        .¿Para qué sirve la funcionalidad Web to Lead?
+	      12.¿Para qué sirve la funcionalidad Web to Lead?
 	Para recopilar información de los sitios web de la empresa.
-¿Para qué sirve la funcionalidad Web to Case?
+13.¿Para qué sirve la funcionalidad Web to Case?
 	Para Recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa.
-   .¿Para qué sirve la funcionalidad Omnichannel?*
+   14.¿Para qué sirve la funcionalidad Omnichannel?*
 	Para conectar a diferentes redes simultáneamente y en tiempo integral.
-   .¿Para qué sirve la funcionalidad Chatter?*
+   15.¿Para qué sirve la funcionalidad Chatter?*
 	Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
 
 ### Conceptos generales
-   .¿Qué significa SaaS? Software As A Service       ¿Salesforce es Saas? Si.
-   .¿Que significa que una solución sea Cloud?* 
+
+   1.¿Qué significa SaaS? Software As A Service       ¿Salesforce es Saas? Si.
+   2.¿Que significa que una solución sea Cloud?* 
 	Que se puede conseguir el servidor de la nube de una página web.
-   .¿Que significa que una solución sea On-Premise?* 
+   --3.¿Que significa que una solución sea On-Premise?* 
 	Que se puede ejecutar desde el operador local del dispositivo y la empresa de hace cargo de la seguridad e disponibilidad.
-   .¿Que es un pipeline de ventas?*
+   -4..¿Que es un pipeline de ventas?*
 	Es el mapa de las actividades diarias que del proceso de ventas en el trabajo de un representante comercial.
-   .¿Que es un funnel de ventas?* 
+   -5.¿Que es un funnel de ventas?* 
 	Es una representación del ciclo o procesos de venta.
-   .¿Qué significa Customer Experience?* 
+   -6.¿Qué significa Customer Experience?* 
 	Es como percibe racional, física, emocional y/o psicológicamente cualquier parte de una empresa un cliente.
-   .¿Qué significa omnicanalidad?*
+   -7.¿Qué significa omnicanalidad?*
 	Es el uso de múltiples canales de comunicación para tener una mejor comunicación.
-   .¿Qué significa que un negocio sea B2B?*
+   -8.¿Qué significa que un negocio sea B2B?*
 	Que es de empresa a empresa no al consumidor directamente.   .*¿Qué significa que un negocio sea B2C?* 
 	Que es de empresa a consumidor directo.
-   .¿Qué es un KPI?*
+   -9.¿Qué es un KPI?*
 	Es un indicador de desempeño o rendimiento en un proceso.
-   .¿Qué es una API y en qué se diferencia de una Rest API?*
+   -10.¿Qué es una API y en qué se diferencia de una Rest API?*
 	Es una interfaz de programación de aplicaciones, Rest api funciona con la arquitectura rest y permite la interacción con servicios web de restful.
-   .¿Qué es un Proceso Batch?* 
+   -11.¿Qué es un Proceso Batch?* 
 	Es la ejecución de un programa sin el control o supervisión directa del usuario.
-   .¿Qué es Kanban?*
+   -12.¿Qué es Kanban?*
 	Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
-   .¿Qué es un ERP? Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios 
+        13.¿Qué es un ERP? Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios.
 	¿Salesforce es un ERP?* Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
