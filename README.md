@@ -238,10 +238,10 @@ Es una interfaz de programación de aplicaciones, Rest api funciona con la arqui
 Es la ejecución de un programa sin el control o supervisión directa del usuario.
 	
   	12 ¿Qué es Kanban?
-Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
+Es un método visual que se utiliza para controlar las tareas a través de su división por fases hasta su finalización.
 	
        13 ¿Qué es un ERP? 
-Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios.
+Sistema de planificación de recursos empresariales que manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios.
 	
 	¿Salesforce es un ERP?
 Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
