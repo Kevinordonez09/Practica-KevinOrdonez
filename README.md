@@ -33,10 +33,10 @@ Se utiliza para hacer referencias a una interacción con una base de datos. Es l
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
 
  	¿Qué significado tiene los posibles valores devueltos?
-Respuestas informativas 100–199.
-Respuestas satisfactorias 200–299.
-Redirecciones 300–399.
-Errores de los clientes 400–499.
+Respuestas informativas 100–199.  <br>
+Respuestas satisfactorias 200–299. <br>
+Redirecciones 300–399. <br>
+Errores de los clientes 400–499. <br>
 Errores de los servidores 500–599.
 						
 
@@ -145,60 +145,98 @@ Código en apex TriggerIdProcontacto ![GET] (https://github.com/Kevinordonez09/P
 
    	1.¿Qué es un RecordType?
    Es la herramienta que determina que proceso comercial, los diseños de página y los valores de lista de selección a los que los usuarios tienen acceso.
-   	2.¿Qué es un ReportType? 
+   
+   		2.¿Qué es un ReportType? 
+	
    Es una plantilla que define los objetos y campos que estarán disponibles en el reporte que se creara.
-   3.¿Qué es un Page Layout?
-	Se encarga de controlar el diseño y organización de los botones, campos,  control, visualforce y listas relacionadas en las paginas de registro de objetos.
-   4.¿Qué es un Compact Layout?
-	Muestra los campos clave de un registro en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
-   5.¿Qué es un Perfil?
-	Los perfiles se encargan de controlar al acceso a los datos y que pueden hacer en la aplicación de los usuarios.
-   6.¿Qué es un Rol?
-	Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización.
-   7.¿Qué es un Validation Rule?
-	Se encargan de verificar que los datos que el usuario ingresa en el registro cumple con los estándares solicitados antes de que el usuario pueda guardar el registro.
-   8.¿Qué diferencia hay entre una relación Master Detail y Lookup?
-	Master detail se basa en una clase principal(padre) y una secundaria(hijo), mientras que lookup se crea una relación entre dos objetos iguales.
-   9.¿Qué es un Sandbox?
-	Es una herramienta para copiar los metadatos desde la organización de producción a una de prueba.
-   10.¿Que es un ChangeSet?
-	Es una función que contiene solo las modificaciones y modifica la metadata.
-   11.¿Para qué sirve el import Wizard de Salesforce?
-	Funciona para importar cualquier dato estándar de Salesforce como objetos, cuentas, contactos, etc, fácilmente.
+   
+  	 3.¿Qué es un Page Layout?
+Se encarga de controlar el diseño y organización de los botones, campos,  control, visualforce y listas relacionadas en las paginas de registro de objetos.
+
+	   4.¿Qué es un Compact Layout?
+Muestra los campos clave de un registro en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+
+	   5.¿Qué es un Perfil?
+Los perfiles se encargan de controlar al acceso a los datos y que pueden hacer en la aplicación de los usuarios.
+
+	   6.¿Qué es un Rol?
+Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización.
+
+	   7.¿Qué es un Validation Rule?
+Se encargan de verificar que los datos que el usuario ingresa en el registro cumple con los estándares solicitados antes de que el usuario pueda guardar el registro.
+
+	   8.¿Qué diferencia hay entre una relación Master Detail y Lookup?
+Master detail se basa en una clase principal(padre) y una secundaria(hijo), mientras que lookup se crea una relación entre dos objetos iguales.
+
+  		 9.¿Qué es un Sandbox?
+Es una herramienta para copiar los metadatos desde la organización de producción a una de prueba.
+
+  		 10.¿Que es un ChangeSet?
+   
+Es una función que contiene solo las modificaciones y modifica la metadata.
+
+  	 11.¿Para qué sirve el import Wizard de Salesforce?
+   
+Funciona para importar cualquier dato estándar de Salesforce como objetos, cuentas, contactos, etc, fácilmente.
+
 	      12.¿Para qué sirve la funcionalidad Web to Lead?
-	Para recopilar información de los sitios web de la empresa.
-13.¿Para qué sirve la funcionalidad Web to Case?
-	Para Recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa.
-   14.¿Para qué sirve la funcionalidad Omnichannel?*
-	Para conectar a diferentes redes simultáneamente y en tiempo integral.
-   15.¿Para qué sirve la funcionalidad Chatter?*
-	Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
+	      
+Para recopilar información de los sitios web de la empresa.
+
+	13.¿Para qué sirve la funcionalidad Web to Case?
+
+Para Recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa.
+
+   	14.¿Para qué sirve la funcionalidad Omnichannel?
+   
+Para conectar a diferentes redes simultáneamente y en tiempo integral.
+
+  		 15.¿Para qué sirve la funcionalidad Chatter?
+   
+Para mantenerse conectado con sus constituyentes y en toda la organización internamente.
 
 ### Conceptos generales
 
    1.¿Qué significa SaaS? Software As A Service       ¿Salesforce es Saas? Si.
-   2.¿Que significa que una solución sea Cloud?* 
-	Que se puede conseguir el servidor de la nube de una página web.
-   --3.¿Que significa que una solución sea On-Premise?* 
-	Que se puede ejecutar desde el operador local del dispositivo y la empresa de hace cargo de la seguridad e disponibilidad.
-   -4..¿Que es un pipeline de ventas?*
-	Es el mapa de las actividades diarias que del proceso de ventas en el trabajo de un representante comercial.
-   -5.¿Que es un funnel de ventas?* 
-	Es una representación del ciclo o procesos de venta.
-   -6.¿Qué significa Customer Experience?* 
-	Es como percibe racional, física, emocional y/o psicológicamente cualquier parte de una empresa un cliente.
-   -7.¿Qué significa omnicanalidad?*
-	Es el uso de múltiples canales de comunicación para tener una mejor comunicación.
-   -8.¿Qué significa que un negocio sea B2B?*
-	Que es de empresa a empresa no al consumidor directamente.   .*¿Qué significa que un negocio sea B2C?* 
-	Que es de empresa a consumidor directo.
-   -9.¿Qué es un KPI?*
-	Es un indicador de desempeño o rendimiento en un proceso.
-   -10.¿Qué es una API y en qué se diferencia de una Rest API?*
-	Es una interfaz de programación de aplicaciones, Rest api funciona con la arquitectura rest y permite la interacción con servicios web de restful.
-   -11.¿Qué es un Proceso Batch?* 
-	Es la ejecución de un programa sin el control o supervisión directa del usuario.
-   -12.¿Qué es Kanban?*
-	Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
-        13.¿Qué es un ERP? Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios.
-	¿Salesforce es un ERP?* Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
+   
+   	2.¿Que significa que una solución sea Cloud?
+Que se puede conseguir el servidor de la nube de una página web.
+
+   	3.¿Que significa que una solución sea On-Premise?
+Qu se puede ejecutar desde el operador local del dispositivo y la empresa de hace cargo de la seguridad e disponibilidad.
+	
+   	4..¿Que es un pipeline de ventas?
+Es el mapa de las actividades diarias que del proceso de ventas en el trabajo de un representante comercial.
+	
+   	5.¿Que es un funnel de ventas?
+Es una representación del ciclo o procesos de venta.
+	
+  	 6.¿Qué significa Customer Experience? 
+Es como percibe racional, física, emocional y/o psicológicamente cualquier parte de una empresa un cliente.
+	
+  	 7.¿Qué significa omnicanalidad?
+Es el uso de múltiples canales de comunicación para tener una mejor comunicación.
+	
+  	 8.¿Qué significa que un negocio sea B2B?
+Que es de empresa a empresa no al consumidor directamente. 
+
+			¿Qué significa que un negocio sea B2C?
+Que es de empresa a consumidor directo.
+
+  		 9.¿Qué es un KPI?
+Es un indicador de desempeño o rendimiento en un proceso.
+	
+  	 10.¿Qué es una API y en qué se diferencia de una Rest API?*
+Es una interfaz de programación de aplicaciones, Rest api funciona con la arquitectura rest y permite la interacción con servicios web de restful.
+	
+  	 11.¿Qué es un Proceso Batch?
+Es la ejecución de un programa sin el control o supervisión directa del usuario.
+	
+  	 12.¿Qué es Kanban?
+Es un sistema que controla armónicamente la fabricación de los productos necesarios en la cantidad y tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica o una compañía.
+	
+       	 13.¿Qué es un ERP? 
+Son los sistemas gerenciales que integran y manejan negocios asociados a las operaciones de producción y de los aspectos de distribución de una compañía en la producción de bienes o servicios.
+	
+	¿Salesforce es un ERP?
+Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
