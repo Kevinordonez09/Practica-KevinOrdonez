@@ -18,13 +18,13 @@ Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP.
 -Delete.
 
 	3.¿Qué es un request y un response en una comunicación HTTP?
-Request: es una petición que se hace desde el cliente 
+   Request: es una petición que se hace desde el cliente. <br>
 Response: es la respuesta del servidor al cliente.
  Es un acceso que se ejecuta en un navegador al que se le hace una petición de un objeto web con el propósito de que se brinda una respuesta. 
  
 	
          ¿Qué son los headers?
-Es la parte superior de las páginas web y es muy importante pues en ese mismo espacio suelen encontrarse las secciones de interración. 
+Header se refiere a la información suplementaria que está al principio de un bloque de información, esta contiene información necesaria para el correcto tratamiento del bloque de información.
  
 	4. ¿Qué es un queryString? (En el contexto de una url)
 Se utiliza para hacer referencias a una interacción con una base de datos. Es la parte de la URL que contiene los datos que deben pasar a las aplicaciones web. 
@@ -41,14 +41,15 @@ Errores de los servidores 500–599.
 						
 
 	6.¿Cómo se envía la data en un Get y cómo en un POST? 
-  En el GET la información codificada del usuario en el header del HTTP request, usando la propia URL, en este los datos son visibles, por lo que nunca se envía información sensible. EN el POST también se codifica la información, pero ésta se envía a través del body del HTTP Request, por lo que no aparece en la URL.
+  En el GET la información codificada del usuario en el header del HTTP request, usando la propia URL, en este los datos son visibles, por lo que nunca se envía información sensible. <br>
+  En el POST también se codifica la información, pero esta se envía a través del body del HTTP Request, por lo que no aparece en la URL.
 
 	7.¿Qué verbo http utiliza el navegador cuando accedemos a una página?
    Get porque es el que se utiliza para acceder a los sitios web.
 
       Explicar brevemente qué son las estructuras de datos JSON y XML dando
 JSON:  Representan formas a base de objetos, un objeto es un conjunto desordenado de pares nombre/valor.ejemplo de estructuras posibles.
-XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos, elementos secundarios
+XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos, elementos secundarios.  <br>
 *JSON:*
 
 {
@@ -76,7 +77,7 @@ Es un protocolo estándar que se creó para permitir la comunicación entre las 
 Es un servicio que funciona para compartir información en un sistema de doble vía, consulta y respuesta (Request=> Response).
 
        11.¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
-Son la parte central de los HTTP requests y responses. transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El Key Content-type le dice al cliente que tipo de contenido será retornado.
+Son la parte central de los HTTP requests y responses. Transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El Key Content-type le dice al cliente que tipo de contenido será retornado.
 
 # Ejercicio 3
 
@@ -89,7 +90,7 @@ Son la parte central de los HTTP requests y responses. transmiten información a
 ## Get final
 ![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Get2.jpg)
 
-	.¿Qué diferencias se observan?*
+	¿Qué diferencias se observan?
 En el primero me muestra los datos existentes en la base al momento de la consulta y en el segundo GET se agregan los datos insertados mediante el POST.
 
 
@@ -125,16 +126,20 @@ Código en apex TriggerIdProcontacto ![GET] (https://github.com/Kevinordonez09/P
 
 ### Soluciones de Salesforce
 
-     1.¿Qué es Salesforce?
+     1.¿Qué es Salesforce? 
    Es una plataforma CRM, es una solución de gestión de relaciones con clientes.
+   
      2.¿Qué es Sales Cloud?
-	 Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
-   3.¿Qué es Service Cloud?
-         Son los servicios que se realizan en la nube.
-   4.¿Qué es Health Cloud?
-   		En un software que permite ofrecer información medica del paciente a las entidades médicas.
-   5.¿Qué es Marketing Cloud?
-  		 Software y servicios de análisis y automatización de marketing digital. 
+   Es una aplicación que gestiona las relaciones de Salesforce mediante la nube.
+
+   	3.¿Qué es Service Cloud?
+  Son los servicios que se realizan en la nube.
+  
+  	 4.¿Qué es Health Cloud?
+   En un software que permite ofrecer información medica del paciente a las entidades médicas.
+   
+  	5.¿Qué es Marketing Cloud?
+  Software y servicios de análisis y automatización de marketing digital. 
 
 ### Funcionalidades de Salesforce
 
